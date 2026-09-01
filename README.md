@@ -1,5 +1,4 @@
 # Proxmox-OpenVPN
-PVE OpenVPN Access — модуль VPN-доступа и Site-to-Site для Proxmox VE
 PVE OpenVPN Access — VPN Access and Site-to-Site Module for Proxmox VE
 
 PVE OpenVPN Access is a local extension for Proxmox VE that integrates directly into the native Proxmox Web interface on port 8006.
